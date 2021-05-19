@@ -24,7 +24,9 @@ Este projeto foi desenvolvido usando as seguintes tenologias:
 Clone o projeto e acesse a pasta:
 
 ```bash
-$ git clone https://github.com/gi-carnaval/NextPodcast.git && cd NextPodcast
+$ git clone https://github.com/gi-carnaval/componentizando-a-aplicacao
+.git && cd componentizando-a-aplicacao
+
 ```
 
 Siga os passos abaixo:
