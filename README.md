@@ -43,8 +43,6 @@ $ yarn dev
 
 ## 💻 Projeto
 
-[Podcastr](https://podcastr-nlw.vercel.app/) para te trazer mais perto do melhor da tecnologia! 
-
 Este foi o segundo desafio desenvolvido no curso **[Ignite]**, trilha de React.
 
 ## 📝 Licença
